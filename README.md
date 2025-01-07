@@ -1,6 +1,6 @@
-# test_app
+# Crypto Currencies List Application
 
-A new Flutter project.
+Приложение для просмотра курса криптовалют в $USD.
 
 ## Getting Started
 
